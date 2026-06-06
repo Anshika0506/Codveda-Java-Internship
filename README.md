@@ -2,29 +2,13 @@
 
 This repository contains the projects completed during my Java Development Internship at Codveda Technologies.
 
-## Repository Structure
-
-```
-Codveda-Java-Internship
-│
-├── Level-1
-│   └── BasicCalculator_NumberGuessingGame
-│
-├── Level-2
-│   ├── EmployeeManagementSystem
-│   └── BankingApplication
-│
-└── Level-3
-    └── LibraryManagementSystem
-```
-
 ## Projects
 
 ### Level 1
 
 #### Basic Calculator
 
-A console-based Java application that performs basic arithmetic operations:
+A console-based Java calculator that performs:
 
 * Addition
 * Subtraction
@@ -33,7 +17,7 @@ A console-based Java application that performs basic arithmetic operations:
 
 #### Number Guessing Game
 
-A Java game where the user tries to guess a randomly generated number within limited attempts.
+A Java game where the user guesses a randomly generated number with hints provided after each attempt.
 
 ---
 
@@ -41,55 +25,36 @@ A Java game where the user tries to guess a randomly generated number within lim
 
 #### Employee Management System
 
-A Java application to manage employee records using Object-Oriented Programming concepts.
+A Java-based CRUD application to:
 
-Features:
-
-* Add Employee
-* View Employee Details
-* Update Employee Information
-* Delete Employee Records
+* Add Employees
+* View Employees
+* Update Employee Details
+* Delete Employees
 
 #### Banking Application
 
-A console-based banking system implementing OOP concepts.
+A console-based banking system supporting:
 
-Features:
-
-* Deposit Money
-* Withdraw Money
+* Deposit
+* Withdraw
 * Check Balance
-* Account Management
-
----
-
-### Level 3
+* Transaction Operations
 
 #### Library Management System
 
-A JDBC-based Library Management System integrated with MySQL.
+A JDBC + MySQL based application that allows:
 
-Technologies Used:
-
-* Java
-* JDBC
-* MySQL
-* Maven
-
-Features:
-
-* Add Book
+* Add Books
 * View Books
-* Borrow Book
-* Return Book
-* Database Connectivity using JDBC
-
----
+* Borrow Books
+* Return Books
+* Database Connectivity using MySQL
 
 ## Technologies Used
 
 * Java
-* Object-Oriented Programming (OOP)
+* OOP Concepts
 * JDBC
 * MySQL
 * Maven
@@ -99,4 +64,4 @@ Features:
 
 Anshika Kushwah
 
-Java Development Intern – Codveda Technologies
+Java Development Intern @ Codveda Technologies
